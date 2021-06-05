@@ -1,2 +1,3 @@
-import './sass/main.scss';
-console.log('hello world!');
+// import './sass/main.scss';
+import validPassword from './validate-password';
+console.log(validPassword);
